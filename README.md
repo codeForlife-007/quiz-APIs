@@ -1,4 +1,4 @@
-# quiz-APIs
+# Quiz Application
 
 Tools and Technologies
 - Spring Boot
